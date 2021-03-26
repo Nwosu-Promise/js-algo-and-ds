@@ -1,5 +1,5 @@
 Big-O  gives us the numeric representation of the performance of code
-big o talks about the relationship between the input size and its relationship to the runtime.
+big O talks about the relationship between the input size and its relationship to the runtime.
 
 We are talking about the worse case scenario - the upperbound runtime
 - linear - as the input scales, the output scales (f(n) = n)
